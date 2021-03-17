@@ -12,7 +12,7 @@ chrome_options.add_experimental_option("prefs",prefs)
 driver = Chrome(chrome_options=chrome_options)
 
 
-
+#Teste carlos
 
 #paulo é ruim 
 
